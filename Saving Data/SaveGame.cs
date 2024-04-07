@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SaveGane : MonoBehaviour
+public class SaveGame : MonoBehaviour
 {
     public Transform player;
 
